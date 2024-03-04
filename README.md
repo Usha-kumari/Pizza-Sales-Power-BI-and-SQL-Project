@@ -1,6 +1,7 @@
 # Pizza-Sales-Power-BI-and-SQL-Project
 This is a Power BI and SQL project to analyze the pizza sales data multiple tables and to build a interactive data visuals dashboard to draw insights.
 
+
 QUESTIONS TO BE ANSWERED:
 
 1. Total Revenue (How much money did we make this year?)
@@ -18,6 +19,7 @@ QUESTIONS TO BE ANSWERED:
 
 1. Total Revenue for the year was $1.64M
 2. Average Order Value was $49.5
+
 3. Total Pizzas Sold – 50,000
 4. Total Orders – 21,000
 5. Average Pizzas per Order – 2
