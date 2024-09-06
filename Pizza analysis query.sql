@@ -131,7 +131,7 @@ GROUP BY name
 ORDER BY total_quantity_sold DESC
 LIMIT 5;
 
--- Bottom 5 Best Sellers by Total Pizzas Sold
+-- Bottom 5 Sellers by Total Pizzas Sold
 
 SELECT
   name
